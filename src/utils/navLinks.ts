@@ -2,27 +2,27 @@ export const navLinks=[
     
     {
     "label":"Home",
-    "icon":"",
+    "icon":"/assets/icons/home.svg",
     "route":"/"
     },
     {
         "label":"Messages",
-        "icon":"",
+        "icon":"/assets/icons/message.svg",
         "route":"/messages"
     },
     {
        "label":"Tasks",
-        "icon":"",
+        "icon":"/assets/icons/task-square.svg",
         "route":"/tasks"
     },
     {
         "label":"Members",
-        "icon":"",
+        "icon":"/assets/icons/members.svg",
         "route":"/members"
      },
     {
         "label":"Settings",
-        "icon":"",
+        "icon":"/assets/icons/setting-2.svg",
         "route":"/settings"
     }              
 ]
