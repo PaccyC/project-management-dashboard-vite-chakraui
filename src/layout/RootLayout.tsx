@@ -5,11 +5,13 @@ const RootLayout = () => {
   return (
     <div className=" w-full md:flex">
         <Sidebar/>
+        <div className=" flex flex-col w-full">
         <Navbar/>
 
         <section className=" flex flex-1 h-full">
             <Outlet/>
         </section>
+        </div>
     </div>
   )
 }

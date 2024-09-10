@@ -5,7 +5,7 @@ import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 
 const Navbar = () => {
   return (
-    <div className="hidden md:flex flex-col w-full h-full border-r-2 border-[#dbdbdb] py-4">
+    <div className="flex flex-col w-full py-4">
       <div className="flex gap-4 h-[70px] px-8 w-full justify-between border-b-2 border-[#dbdbdb] items-center">
         <div className="flex items-center gap-1 px-4 w-[415px] rounded-lg bg-secondary-2">
         
