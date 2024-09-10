@@ -5,7 +5,7 @@ const DashboardContent = () => {
       <div className=" flex justify-between">
 
         <div className=" flex">
-          <h2>Mobile App</h2>
+          <h2 className=" text-dark font-bold text-3xl ">Mobile App</h2>
         </div>
       </div>
     </div>
