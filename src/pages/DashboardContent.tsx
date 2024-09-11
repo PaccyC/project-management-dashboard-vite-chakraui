@@ -1,8 +1,7 @@
 import AvatarGroup from "@/components/AvatarGroup";
 import ProjectDetails from "@/components/ProjectDetails";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
-import { Avatar } from "@radix-ui/react-avatar";
+
 import { FaEdit,FaEquals } from "react-icons/fa"
 import { IoMdLink ,IoMdAdd} from "react-icons/io";
 import { MdOutlineKeyboardArrowDown } from "react-icons/md";
